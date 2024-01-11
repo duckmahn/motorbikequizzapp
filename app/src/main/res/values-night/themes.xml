@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.QuizApplication" parent="Theme.AppCompat.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#330769</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#1B786F</item>
+        <item name="colorSecondaryVariant">#3A817A</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="text">
+        <item name="android:textColor"> @color/white</item>
+    </style>
+    <style name="screen">
+        <item name="background">@color/teal_200</item>
+    </style>
+    <style name="MainScreen">
+        <item name="background">@color/purple_200</item>
+    </style>
+    <style name="category">
+        <item name="background">@color/purple_700</item>
+    </style>
+
+
+</resources>
